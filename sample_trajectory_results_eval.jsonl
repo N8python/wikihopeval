@@ -1,0 +1,100 @@
+{"sample_id": 1, "source": "James_VI_and_I", "target": "South_Korea", "reachable": true, "path_length": 2, "path_vertices": ["James_VI_and_I", "ISBN", "South_Korea"]}
+{"sample_id": 2, "source": "BBC_News", "target": "Stanford_University", "reachable": true, "path_length": 3, "path_vertices": ["BBC_News", "ISBN", "United_Kingdom", "Stanford_University"]}
+{"sample_id": 3, "source": "Theodore_Roosevelt", "target": "Richard_Nixon", "reachable": true, "path_length": 1, "path_vertices": ["Theodore_Roosevelt", "Richard_Nixon"]}
+{"sample_id": 4, "source": "Apple_Inc.", "target": "African_Americans", "reachable": true, "path_length": 2, "path_vertices": ["Apple_Inc.", "United_States", "African_Americans"]}
+{"sample_id": 5, "source": "Rule_of_law", "target": "Encyclopædia_Britannica", "reachable": true, "path_length": 1, "path_vertices": ["Rule_of_law", "Encyclopædia_Britannica"]}
+{"sample_id": 6, "source": "Jazz", "target": "Nelson_Mandela", "reachable": true, "path_length": 3, "path_vertices": ["Jazz", "ISBN", "Indonesia", "Nelson_Mandela"]}
+{"sample_id": 7, "source": "Left-wing_politics", "target": "Pitchfork_(website)", "reachable": true, "path_length": 3, "path_vertices": ["Left-wing_politics", "The_Guardian", "The_New_Yorker", "Pitchfork_(website)"]}
+{"sample_id": 8, "source": "Argentina", "target": "Open_access", "reachable": true, "path_length": 2, "path_vertices": ["Argentina", "Digital_object_identifier", "Open_access"]}
+{"sample_id": 9, "source": "Alaska", "target": "Japan", "reachable": true, "path_length": 2, "path_vertices": ["Alaska", "The_New_York_Times", "Japan"]}
+{"sample_id": 10, "source": "USA_Today", "target": "Paris", "reachable": true, "path_length": 2, "path_vertices": ["USA_Today", "ISSN", "Paris"]}
+{"sample_id": 11, "source": "Manhattan", "target": "Elizabeth_II", "reachable": true, "path_length": 2, "path_vertices": ["Manhattan", "Time_(magazine)", "Elizabeth_II"]}
+{"sample_id": 12, "source": "Tennessee", "target": "UK_Albums_Chart", "reachable": true, "path_length": 2, "path_vertices": ["Tennessee", "Elvis_Presley", "UK_Albums_Chart"]}
+{"sample_id": 13, "source": "Canada", "target": "Stevie_Wonder", "reachable": true, "path_length": 3, "path_vertices": ["Canada", "ISBN", "Library_of_Congress", "Stevie_Wonder"]}
+{"sample_id": 14, "source": "Hong_Kong", "target": "Broadway_theatre", "reachable": true, "path_length": 2, "path_vertices": ["Hong_Kong", "United_States", "Broadway_theatre"]}
+{"sample_id": 15, "source": "Zionism", "target": "UEFA_Europa_League", "reachable": true, "path_length": 2, "path_vertices": ["Zionism", "CNN", "UEFA_Europa_League"]}
+{"sample_id": 16, "source": "Pitchfork_(website)", "target": "Meryl_Streep", "reachable": true, "path_length": 3, "path_vertices": ["Pitchfork_(website)", "The_New_York_Times", "CNN", "Meryl_Streep"]}
+{"sample_id": 17, "source": "Billboard_Hot_100", "target": "Atlantic_Ocean", "reachable": true, "path_length": 3, "path_vertices": ["Billboard_Hot_100", "ISBN", "United_States", "Atlantic_Ocean"]}
+{"sample_id": 18, "source": "Adele", "target": "Mahatma_Gandhi", "reachable": true, "path_length": 2, "path_vertices": ["Adele", "Time_(magazine)", "Mahatma_Gandhi"]}
+{"sample_id": 19, "source": "Janet_Jackson", "target": "Neolithic", "reachable": true, "path_length": 3, "path_vertices": ["Janet_Jackson", "ISBN", "United_Kingdom", "Neolithic"]}
+{"sample_id": 20, "source": "The_Guardian", "target": "Somalia", "reachable": true, "path_length": 2, "path_vertices": ["The_Guardian", "Associated_Press", "Somalia"]}
+{"sample_id": 21, "source": "Yale_University", "target": "Age_of_Enlightenment", "reachable": true, "path_length": 1, "path_vertices": ["Yale_University", "Age_of_Enlightenment"]}
+{"sample_id": 22, "source": "GameSpot", "target": "Alaska", "reachable": true, "path_length": 2, "path_vertices": ["GameSpot", "California", "Alaska"]}
+{"sample_id": 23, "source": "Bertrand_Russell", "target": "Mahatma_Gandhi", "reachable": true, "path_length": 1, "path_vertices": ["Bertrand_Russell", "Mahatma_Gandhi"]}
+{"sample_id": 24, "source": "Socialism", "target": "Spanish_language", "reachable": true, "path_length": 2, "path_vertices": ["Socialism", "European_Union", "Spanish_language"]}
+{"sample_id": 25, "source": "Abbasid_Caliphate", "target": "Freedom_of_religion", "reachable": true, "path_length": 2, "path_vertices": ["Abbasid_Caliphate", "Christianity", "Freedom_of_religion"]}
+{"sample_id": 26, "source": "Peru", "target": "Encyclopædia_Britannica", "reachable": true, "path_length": 1, "path_vertices": ["Peru", "Encyclopædia_Britannica"]}
+{"sample_id": 27, "source": "Protestantism", "target": "Vatican_City", "reachable": true, "path_length": 2, "path_vertices": ["Protestantism", "United_Kingdom", "Vatican_City"]}
+{"sample_id": 28, "source": "New_Zealand", "target": "Lebanon", "reachable": true, "path_length": 2, "path_vertices": ["New_Zealand", "France", "Lebanon"]}
+{"sample_id": 29, "source": "Dante_Alighieri", "target": "Simon_&_Schuster", "reachable": true, "path_length": 2, "path_vertices": ["Dante_Alighieri", "Encyclopædia_Britannica", "Simon_&_Schuster"]}
+{"sample_id": 30, "source": "Biodiversity", "target": "Confucianism", "reachable": true, "path_length": 2, "path_vertices": ["Biodiversity", "China", "Confucianism"]}
+{"sample_id": 31, "source": "Mathematics", "target": "England", "reachable": true, "path_length": 2, "path_vertices": ["Mathematics", "Jesuits", "England"]}
+{"sample_id": 32, "source": "Julie_Andrews", "target": "Hebrew_language", "reachable": true, "path_length": 2, "path_vertices": ["Julie_Andrews", "Dustin_Hoffman", "Hebrew_language"]}
+{"sample_id": 33, "source": "Hamburg", "target": "Arabic", "reachable": true, "path_length": 2, "path_vertices": ["Hamburg", "Germany", "Arabic"]}
+{"sample_id": 34, "source": "Apartheid", "target": "Pregnancy", "reachable": true, "path_length": 3, "path_vertices": ["Apartheid", "India", "Human", "Pregnancy"]}
+{"sample_id": 35, "source": "Russian_language", "target": "Internet_Archive", "reachable": true, "path_length": 2, "path_vertices": ["Russian_language", "Wayback_Machine", "Internet_Archive"]}
+{"sample_id": 36, "source": "San_Diego", "target": "Slovakia", "reachable": true, "path_length": 2, "path_vertices": ["San_Diego", "Italy", "Slovakia"]}
+{"sample_id": 37, "source": "Sufism", "target": "Conservatism_in_the_United_States", "reachable": true, "path_length": 2, "path_vertices": ["Sufism", "Ruhollah_Khomeini", "Conservatism_in_the_United_States"]}
+{"sample_id": 38, "source": "Protein", "target": "Ruhollah_Khomeini", "reachable": true, "path_length": 3, "path_vertices": ["Protein", "Greek_language", "Conservatism", "Ruhollah_Khomeini"]}
+{"sample_id": 39, "source": "Greenland", "target": "Lithuania", "reachable": true, "path_length": 1, "path_vertices": ["Greenland", "Lithuania"]}
+{"sample_id": 40, "source": "Reformed_Christianity", "target": "Climate_change", "reachable": true, "path_length": 2, "path_vertices": ["Reformed_Christianity", "Catholic_Church", "Climate_change"]}
+{"sample_id": 41, "source": "Libya", "target": "Cold_War", "reachable": true, "path_length": 2, "path_vertices": ["Libya", "United_States", "Cold_War"]}
+{"sample_id": 42, "source": "Reuters", "target": "Rihanna", "reachable": true, "path_length": 2, "path_vertices": ["Reuters", "Prague", "Rihanna"]}
+{"sample_id": 43, "source": "Judaism", "target": "Oman", "reachable": true, "path_length": 2, "path_vertices": ["Judaism", "Israel", "Oman"]}
+{"sample_id": 44, "source": "American_English", "target": "Iran", "reachable": true, "path_length": 2, "path_vertices": ["American_English", "India", "Iran"]}
+{"sample_id": 45, "source": "The_Bahamas", "target": "Elizabeth_II", "reachable": true, "path_length": 1, "path_vertices": ["The_Bahamas", "Elizabeth_II"]}
+{"sample_id": 46, "source": "University_of_Cambridge", "target": "Denmark", "reachable": true, "path_length": 2, "path_vertices": ["University_of_Cambridge", "United_Kingdom", "Denmark"]}
+{"sample_id": 47, "source": "John_Locke", "target": "Augustine_of_Hippo", "reachable": true, "path_length": 1, "path_vertices": ["John_Locke", "Augustine_of_Hippo"]}
+{"sample_id": 48, "source": "UEFA_Europa_League", "target": "Liver", "reachable": true, "path_length": 3, "path_vertices": ["UEFA_Europa_League", "Argentina", "Mammal", "Liver"]}
+{"sample_id": 49, "source": "Zinc", "target": "Chordate", "reachable": true, "path_length": 3, "path_vertices": ["Zinc", "United_States", "Mammal", "Chordate"]}
+{"sample_id": 50, "source": "Slavery_in_the_United_States", "target": "Captain_(association_football)", "reachable": true, "path_length": 3, "path_vertices": ["Slavery_in_the_United_States", "Southern_United_States", "Association_football", "Captain_(association_football)"]}
+{"sample_id": 51, "source": "Isaac_Newton", "target": "Open_Tree_of_Life", "reachable": true, "path_length": 3, "path_vertices": ["Isaac_Newton", "Aristotle", "Mammal", "Open_Tree_of_Life"]}
+{"sample_id": 52, "source": "Baruch_Spinoza", "target": "Elvis_Presley", "reachable": true, "path_length": 3, "path_vertices": ["Baruch_Spinoza", "ISBN", "United_States", "Elvis_Presley"]}
+{"sample_id": 53, "source": "Ireland", "target": "Alexander_Hamilton", "reachable": true, "path_length": 3, "path_vertices": ["Ireland", "ISBN", "United_States", "Alexander_Hamilton"]}
+{"sample_id": 54, "source": "Stevie_Wonder", "target": "Nitrogen", "reachable": true, "path_length": 3, "path_vertices": ["Stevie_Wonder", "The_Guardian", "Zinc", "Nitrogen"]}
+{"sample_id": 55, "source": "Roman_Empire", "target": "Liverpool_F.C.", "reachable": true, "path_length": 3, "path_vertices": ["Roman_Empire", "Catholic_Church", "Pope_John_Paul_II", "Liverpool_F.C."]}
+{"sample_id": 56, "source": "COVID-19_pandemic", "target": "Arsenal_F.C.", "reachable": true, "path_length": 3, "path_vertices": ["COVID-19_pandemic", "The_Washington_Post", "London", "Arsenal_F.C."]}
+{"sample_id": 57, "source": "Independent_politician", "target": "Arsenal_F.C.", "reachable": true, "path_length": 3, "path_vertices": ["Independent_politician", "Reuters", "London", "Arsenal_F.C."]}
+{"sample_id": 58, "source": "Hindi", "target": "YouTube", "reachable": true, "path_length": 1, "path_vertices": ["Hindi", "YouTube"]}
+{"sample_id": 59, "source": "Senegal", "target": "Barbra_Streisand", "reachable": true, "path_length": 3, "path_vertices": ["Senegal", "The_New_York_Times", "NPR", "Barbra_Streisand"]}
+{"sample_id": 60, "source": "Computing_platform", "target": "Metabolism", "reachable": true, "path_length": 3, "path_vertices": ["Computing_platform", "Artificial_intelligence", "David_Hume", "Metabolism"]}
+{"sample_id": 61, "source": "Wayback_Machine", "target": "Territorial_evolution_of_the_United_States", "reachable": true, "path_length": 3, "path_vertices": ["Wayback_Machine", "ISBN", "United_States", "Territorial_evolution_of_the_United_States"]}
+{"sample_id": 62, "source": "Ronald_Reagan", "target": "Pope_Francis", "reachable": true, "path_length": 1, "path_vertices": ["Ronald_Reagan", "Pope_Francis"]}
+{"sample_id": 63, "source": "Denver", "target": "Immanuel_Kant", "reachable": true, "path_length": 3, "path_vertices": ["Denver", "ISBN", "Germany", "Immanuel_Kant"]}
+{"sample_id": 64, "source": "Album", "target": "Mathematics", "reachable": true, "path_length": 3, "path_vertices": ["Album", "Bob_Dylan", "Bertrand_Russell", "Mathematics"]}
+{"sample_id": 65, "source": "Methodism", "target": "Carl_Linnaeus", "reachable": true, "path_length": 3, "path_vertices": ["Methodism", "United_States", "Michael_Jackson", "Carl_Linnaeus"]}
+{"sample_id": 66, "source": "Middle_Ages", "target": "Billie_Eilish", "reachable": true, "path_length": 3, "path_vertices": ["Middle_Ages", "Modernism", "The_Beatles", "Billie_Eilish"]}
+{"sample_id": 67, "source": "Anarchism", "target": "Kendrick_Lamar", "reachable": true, "path_length": 3, "path_vertices": ["Anarchism", "The_New_York_Times", "2016_United_States_presidential_election", "Kendrick_Lamar"]}
+{"sample_id": 68, "source": "Animal", "target": "NBC", "reachable": true, "path_length": 3, "path_vertices": ["Animal", "ISBN", "United_States", "NBC"]}
+{"sample_id": 69, "source": "Mississippi", "target": "Wikispecies", "reachable": true, "path_length": 3, "path_vertices": ["Mississippi", "ISBN", "Wikidata", "Wikispecies"]}
+{"sample_id": 70, "source": "ARIA_Charts", "target": "Newsweek", "reachable": true, "path_length": 3, "path_vertices": ["ARIA_Charts", "YouTube", "The_New_York_Times", "Newsweek"]}
+{"sample_id": 71, "source": "Handle_System", "target": "Indiana", "reachable": true, "path_length": 4, "path_vertices": ["Handle_System", "Digital_object_identifier", "ISBN", "United_States", "Indiana"]}
+{"sample_id": 72, "source": "Chemical_formula", "target": "Liverpool_F.C.", "reachable": true, "path_length": 4, "path_vertices": ["Chemical_formula", "ISBN", "United_Kingdom", "Premier_League", "Liverpool_F.C."]}
+{"sample_id": 73, "source": "Wikisource", "target": "FA_Cup", "reachable": true, "path_length": 4, "path_vertices": ["Wikisource", "ISBN", "United_Kingdom", "Association_football", "FA_Cup"]}
+{"sample_id": 74, "source": "Open_Tree_of_Life", "target": "Vietnam_War", "reachable": true, "path_length": 4, "path_vertices": ["Open_Tree_of_Life", "Digital_object_identifier", "ISBN", "United_States", "Vietnam_War"]}
+{"sample_id": 75, "source": "Open_Tree_of_Life", "target": "United_States_Air_Force", "reachable": true, "path_length": 4, "path_vertices": ["Open_Tree_of_Life", "Digital_object_identifier", "ISBN", "United_States", "United_States_Air_Force"]}
+{"sample_id": 76, "source": "Jazz", "target": "Synonym_(taxonomy)", "reachable": true, "path_length": 4, "path_vertices": ["Jazz", "ISBN", "Germany", "Fungus", "Synonym_(taxonomy)"]}
+{"sample_id": 77, "source": "Open_Tree_of_Life", "target": "Anthony_Hopkins", "reachable": true, "path_length": 4, "path_vertices": ["Open_Tree_of_Life", "Taxonomy_(biology)", "England", "Wales", "Anthony_Hopkins"]}
+{"sample_id": 78, "source": "Bacteria", "target": "Album", "reachable": true, "path_length": 4, "path_vertices": ["Bacteria", "ISBN", "United_States", "Beyoncé", "Album"]}
+{"sample_id": 79, "source": "Global_Biodiversity_Information_Facility", "target": "Jay-Z", "reachable": true, "path_length": 4, "path_vertices": ["Global_Biodiversity_Information_Facility", "Wayback_Machine", "Library_of_Congress", "Stevie_Wonder", "Jay-Z"]}
+{"sample_id": 80, "source": "Handle_System", "target": "Dante_Alighieri", "reachable": true, "path_length": 4, "path_vertices": ["Handle_System", "Digital_object_identifier", "European_Union", "France", "Dante_Alighieri"]}
+{"sample_id": 81, "source": "Led_Zeppelin", "target": "Synonym_(taxonomy)", "reachable": true, "path_length": 4, "path_vertices": ["Led_Zeppelin", "ISBN", "Germany", "Fungus", "Synonym_(taxonomy)"]}
+{"sample_id": 82, "source": "Open_Tree_of_Life", "target": "Paul_Newman", "reachable": true, "path_length": 4, "path_vertices": ["Open_Tree_of_Life", "Digital_object_identifier", "European_Union", "Jimmy_Carter", "Paul_Newman"]}
+{"sample_id": 83, "source": "ARIA_Charts", "target": "Evolution", "reachable": true, "path_length": 4, "path_vertices": ["ARIA_Charts", "YouTube", "ISBN", "United_Kingdom", "Evolution"]}
+{"sample_id": 84, "source": "Charles_Darwin", "target": "Brad_Pitt", "reachable": true, "path_length": 4, "path_vertices": ["Charles_Darwin", "ISBN", "United_States", "Academy_Awards", "Brad_Pitt"]}
+{"sample_id": 85, "source": "AllMusic", "target": "Catalogue_of_Life", "reachable": true, "path_length": 4, "path_vertices": ["AllMusic", "ISBN", "United_States", "Mammal", "Catalogue_of_Life"]}
+{"sample_id": 86, "source": "The_Independent", "target": "Pregnancy", "reachable": true, "path_length": 4, "path_vertices": ["The_Independent", "ISBN", "Indonesia", "Human", "Pregnancy"]}
+{"sample_id": 87, "source": "Ethanol", "target": "List_of_music_recording_certifications", "reachable": true, "path_length": 4, "path_vertices": ["Ethanol", "ISBN", "United_States", "Madonna", "List_of_music_recording_certifications"]}
+{"sample_id": 88, "source": "CAS_Registry_Number", "target": "Brooklyn", "reachable": true, "path_length": 4, "path_vertices": ["CAS_Registry_Number", "Digital_object_identifier", "European_Union", "Demonym", "Brooklyn"]}
+{"sample_id": 89, "source": "Australian_Recording_Industry_Association", "target": "Interim_Register_of_Marine_and_Nonmarine_Genera", "reachable": true, "path_length": 4, "path_vertices": ["Australian_Recording_Industry_Association", "ISBN", "United_States", "Mammal", "Interim_Register_of_Marine_and_Nonmarine_Genera"]}
+{"sample_id": 90, "source": "Synonym_(taxonomy)", "target": "Quincy_Jones", "reachable": true, "path_length": 4, "path_vertices": ["Synonym_(taxonomy)", "ISBN", "United_States", "Michael_Jackson", "Quincy_Jones"]}
+{"sample_id": 91, "source": "Australian_Recording_Industry_Association", "target": "Medical_specialty", "reachable": true, "path_length": 4, "path_vertices": ["Australian_Recording_Industry_Association", "YouTube", "The_Daily_Telegraph", "COVID-19", "Medical_specialty"]}
+{"sample_id": 92, "source": "Austria-Hungary", "target": "List_of_music_recording_certifications", "reachable": true, "path_length": 4, "path_vertices": ["Austria-Hungary", "ISBN", "United_States", "Madonna", "List_of_music_recording_certifications"]}
+{"sample_id": 93, "source": "The_New_Yorker", "target": "Interim_Register_of_Marine_and_Nonmarine_Genera", "reachable": true, "path_length": 4, "path_vertices": ["The_New_Yorker", "ISBN", "United_States", "Mammal", "Interim_Register_of_Marine_and_Nonmarine_Genera"]}
+{"sample_id": 94, "source": "Captain_(association_football)", "target": "Pregnancy", "reachable": true, "path_length": 4, "path_vertices": ["Captain_(association_football)", "Wayback_Machine", "Climate_change", "Infection", "Pregnancy"]}
+{"sample_id": 95, "source": "Handle_System", "target": "Elizabeth_II", "reachable": true, "path_length": 4, "path_vertices": ["Handle_System", "Digital_object_identifier", "ISBN", "United_Kingdom", "Elizabeth_II"]}
+{"sample_id": 96, "source": "Bacteria", "target": "Single_(music)", "reachable": true, "path_length": 4, "path_vertices": ["Bacteria", "ISBN", "United_States", "Beyoncé", "Single_(music)"]}
+{"sample_id": 97, "source": "Open_Tree_of_Life", "target": "Shanghai", "reachable": true, "path_length": 4, "path_vertices": ["Open_Tree_of_Life", "Digital_object_identifier", "ISBN", "China", "Shanghai"]}
+{"sample_id": 98, "source": "Ancient_Egypt", "target": "Brad_Pitt", "reachable": true, "path_length": 4, "path_vertices": ["Ancient_Egypt", "ISBN", "United_States", "Academy_Awards", "Brad_Pitt"]}
+{"sample_id": 99, "source": "Captain_(association_football)", "target": "Open_Tree_of_Life", "reachable": true, "path_length": 4, "path_vertices": ["Captain_(association_football)", "Association_football", "Africa", "Human", "Open_Tree_of_Life"]}
+{"sample_id": 100, "source": "Library_of_Congress_Control_Number", "target": "Sulfur", "reachable": true, "path_length": 4, "path_vertices": ["Library_of_Congress_Control_Number", "ISBN", "United_States", "Illinois", "Sulfur"]}
