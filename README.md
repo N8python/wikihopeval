@@ -60,3 +60,15 @@ This weights longer-path questions more heavily.
 - aggregate accuracy (valid + correct endpoint path)
 - per-path-length accuracy
 - per-path-length average score
+
+## Leaderboard
+
+Below is a preliminary leaderboard to give an idea of model performance on this task. 
+
+| Model | Score |
+| --- | ---: |
+| rnj-1-instruct | 0.3626 |
+| qwen3-4b-2507 | 0.5430 |
+| gpt-4.1-mini | 0.7608 |
+| claude-4.5-haiku | 0.8451 |
+| claude-4.6-opus | 0.8773 |
